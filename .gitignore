@@ -1,0 +1,5 @@
+/target
+/mountdir
+/.metals
+/.vscode
+Cargo.lock
